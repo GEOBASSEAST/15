@@ -1,5 +1,6 @@
 
 
+
 const a=+prompt("enter firs:")
 const o=prompt("enter operator:")
 const b=+prompt("enter second:")
